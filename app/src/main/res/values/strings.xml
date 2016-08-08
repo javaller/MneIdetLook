@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LookIntent</string>
+    <string name="title_activity_look">LookActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="look_title_hint">Hello blank fragment</string>
+    <string name="look_title_label">Title</string>
+    <string name="look_details_label">Details</string>
+    <string name="look_valuing_label">Solved?</string>
+</resources>
